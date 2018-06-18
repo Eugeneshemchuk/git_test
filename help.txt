@@ -1,0 +1,125 @@
+##########
+Task 1 
+##########
+
+
+file -f files_listing.txt | sed 'w file_listing_sed.txt' > files_listing_sed.txt
+
+##########
+Task 2 
+##########
+
+#filter by time
+
+
+dateA='18:00:00'
+infile='syslog.txt'
+awk -v dateA="$dateA" '{if (FNR>1 && dateA>=$3) {print}}' "$infile" > awk_result.txt
+awk '{print $1 , $2 , $3}' awk_result.txt
+
+
+#filter by date
+dateA='1'
+infile='syslog.txt'
+awk -v dateA="$dateA" '{if (FNR>1 && dateA==$2) {print}}' "$infile" > awk_result.txt
+awk '{print $1 , $2 , $3 , $4 , $5}' awk_result.txt
+
+## filter by time and date
+dateA='18:00:00'
+dateB='Jun'
+infile='syslog.txt'
+awk -v dateA="$dateA" && dateB="$dateB" '{if (FNR>1 && dateA>=$2) {print}}' "$infile" > awk_result.txt
+awk '{print $1 , $2 , $3 , $4 , $5}' awk_result.txt
+
+
+
+## filter by time and date
+dateA='18:00:00'
+dateB='Jun'
+infile='syslog.txt'
+awk -v dateA="$dateA" && dateB="$dateB" '{if (FNR>1 && dateA>=$2 && dateB==$1) {print}}' "$infile" > awk_result.txt
+awk '{print $1 , $2 , $3 , $4 , $5}' awk_result.txt
+
+
+#create log file with 2 dates
+cat syslog.txt > new_syslog.txt && awk '{if ($1=="Jun") {print}}' /var/log/system.log >> new_syslog.txt
+cat new_syslog.txt
+awk '{print $1 , $2 }' new_syslog.txt
+
+
+# create file with only date 
+awk '{print $1, $2}' new_syslog.txt > date_only.txt
+
+echo 
+date -j +%m%d
+
+# read file with dates 
+awk -F- -OFS=/ '{print $2,$3,$1}' < date_only.txt
+
+\\\
+date -j -f "%m/%d/%y %H:%M:%S %p" "5/22/18 8:15:00 am" +"%m%d%y"
+
+##########
+task 3 
+##########
+
+./time.sh &
+$ jobs 
+fg
+nohup ./time.sh &
+
+
+######
+Task 4
+##########
+
+
+top -o pid
+top -o mem
+
+nice -n -5  top	
+ps -fl -C "mdworker"
+renice -n -2 -p 18376
+
+
+########## 
+task 5 
+##########
+
+
+ls /Users >> /Users/eugene/DevOps/Practical2/users_listing.txt
+
+sed 's/:.*//' /etc/passwd >> /Users/eugene/DevOps/Practical2/users_listing.txt
+
+w >> /Users/eugene/DevOps/Practical2/users_listing.txt
+
+*/10 * * * * /usr/bin/somedirectory/somecommand
+
+w -hi /Users/eugene/DevOps/Practical2/users_listing.txt # will list users
+
+### run this 
+
+cron.sh
+
+/Users/eugene/DevOps/Practical2/cron.sh
+
+crontab -e
+crontab -l
+
+
+##########
+
+sudo adduser username # test
+su username 
+
+
+########## 
+task 6
+##########
+
+wall message
+
+########## 
+task 7 
+##########
+

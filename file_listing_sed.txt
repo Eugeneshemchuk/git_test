@@ -1,0 +1,24 @@
+.:                            directory
+..:                           directory
+.DS_Store:                    Apple Desktop Services Store
+awk_resudateA=18:00:00lt.txt: empty
+awk_result.txt:               ASCII text, with very long lines
+convert_date.sh:              ASCII text
+cron.sh:                      ASCII text
+date:                         ASCII text
+date.txt:                     ASCII text
+date_only.txt:                ASCII text
+file_listing_sed.txt:         empty
+files_listing.txt:            ASCII text
+files_listing_sed.txt:        ASCII text
+help.txt:                     ASCII text
+loop.sh:                      ASCII text
+new_syslog.txt:               ASCII text, with very long lines
+new_syslog.txtcat:            empty
+nohup.out:                    ASCII text
+practical task.pdf:           PDF document, version 1.7
+syslog.txt:                   ASCII text, with very long lines
+thisistest.txt:               ASCII text
+time.sh:                      ASCII text
+users_listing.txt:            ASCII text
+while.sh:                     ASCII text

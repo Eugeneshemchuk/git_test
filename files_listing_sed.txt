@@ -1,0 +1,10 @@
+.:                     directory
+..:                    directory
+.DS_Store:             Apple Desktop Services Store
+awk_result.txt:        ASCII text, with very long lines
+file_listing_sed.txt:  empty
+files_listing.txt:     ASCII text
+files_listing_sed.txt: empty
+help.txt:              ASCII text
+practical task.pdf:    PDF document, version 1.7
+syslog.txt:            ASCII text, with very long lines
