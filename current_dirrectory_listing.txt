@@ -1,7 +1,0 @@
-current_dirrectory_listing.txt
-third_script.sh
-script_with_parameters.sh
-script.sh
-
-End of the file! (using vim)
-End of the file! (using nano)
