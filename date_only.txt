@@ -1,0 +1,1468 @@
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x1003adbc0 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x10060b160>
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x1003adbc0 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x10060b160>
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x1003adbc0 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x10060b160>
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x100610040 
+productID=com.google.Keystone 
+version=1.2.10.105 
+xc=<KSPathExistenceChecker:0x100610660 path=/Users/eugene/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+cohort=1:0: 
+cohortName=Everyone 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x1003ad9c0> 
+> 
+May 25
+May 25
+server=<KSOmahaServer:0x10061fda0> 
+url="https://tools.google.com/service/update2?cup2hreq=62aea718086f774af3045540b0063ff9d24a752f02385e1d74c04a64eef500fb&cup2key=7:4129208220" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=62aea718086f774af3045540b0063ff9d24a752f02385e1d74c04a64eef500fb&cup2key=7:1918627663 
+) 
+runningFetchers=0 
+tickets=1 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.Keystone"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+: <>
+May 25
+May 25
+server=<KSOmahaServer:0x10061fda0> 
+url="https://tools.google.com/service/update2?cup2hreq=62aea718086f774af3045540b0063ff9d24a752f02385e1d74c04a64eef500fb&cup2key=7:4129208220" 
+tickets=1 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4161"
+<app appid="com.google.Keystone"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100628ff0 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x10060b160>
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100628ff0 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=(null) 
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x100622880 
+productID=com.google.android.mtpviewer 
+version=1.0.50.2266 
+xc=<KSPathExistenceChecker:0x100622590 path=/Applications/Android
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-05-18 08:02:35
+ticketVersion=1 
+>, 
+<KSTicket:0x1006220f0 
+productID=com.google.Chrome 
+version=66.0.3359.181 
+xc=<KSPathExistenceChecker:0x10060c890 path=/Applications/Google
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+tagKey=KSChannelID 
+brandPath=/Users/eugene/Library/Google/Google Chrome
+brandKey=KSBrandID 
+versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+versionKey=KSVersion 
+cohort=1:1y5: 
+cohortName=Stable 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x1003ad9c0> 
+> 
+May 25
+May 25
+May 25
+server=<KSOmahaServer:0x1002bf710> 
+url="https://tools.google.com/service/update2?cup2hreq=470c4133a4228d77d88c6b1aeb762b6809c73c5a50ac6a6ede1a2d8b9c30afc4&cup2key=7:122057754" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=470c4133a4228d77d88c6b1aeb762b6809c73c5a50ac6a6ede1a2d8b9c30afc4&cup2key=7:89829437 
+) 
+runningFetchers=0 
+tickets=2 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.android.mtpviewer"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+<app appid="com.google.Chrome"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+: <>
+May 25
+May 25
+server=<KSOmahaServer:0x1002bf710> 
+url="https://tools.google.com/service/update2?cup2hreq=470c4133a4228d77d88c6b1aeb762b6809c73c5a50ac6a6ede1a2d8b9c30afc4&cup2key=7:122057754" 
+tickets=2 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4161"
+<app appid="com.google.android.mtpviewer"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+<app appid="com.google.Chrome"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x1003a1600 store=<KSKeyedPersistentStore:0x1003a12a0
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x1003a1320 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x1002a6d50 
+delegate=<KSUpdateEngine:0x1003ad9c0> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x10060b160>
+serverInfoStore=<KSServerPrivateInfoStore:0x1003acea0 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+checks =
+tickets =
+usertickets =
+validtickets =
+validusertickets =
+}> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Output parameters
+May 25
+ASL Module
+Output parameters
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Output parameters
+May 25
+ASL Module
+Those messages
+May 25
+May 25
+ASL Module
+Those messages
+May 25
+ASL Module
+Those messages
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x10036c830 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x1004215a0>
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x10036c830 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x1004215a0>
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x10036c830 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x1004215a0>
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x100360f80 
+productID=com.google.Keystone 
+version=1.2.10.105 
+xc=<KSPathExistenceChecker:0x100343d90 path=/Users/eugene/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+cohort=1:0: 
+cohortName=Everyone 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x10036c630> 
+> 
+May 25
+May 25
+server=<KSOmahaServer:0x100304910> 
+url="https://tools.google.com/service/update2?cup2hreq=81889c7b0ab495228abfb68e0c44a2ab44578c46675eb649224d43f769ac052d&cup2key=7:609310798" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=81889c7b0ab495228abfb68e0c44a2ab44578c46675eb649224d43f769ac052d&cup2key=7:3869899784 
+) 
+runningFetchers=0 
+tickets=1 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.Keystone"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+server=<KSOmahaServer:0x100304910> 
+url="https://tools.google.com/service/update2?cup2hreq=81889c7b0ab495228abfb68e0c44a2ab44578c46675eb649224d43f769ac052d&cup2key=7:609310798" 
+tickets=1 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4161"
+<app appid="com.google.Keystone"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x10062bcd0 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x1004215a0>
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x10062bcd0 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=(null) 
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x100626310 
+productID=com.google.android.mtpviewer 
+version=1.0.50.2266 
+xc=<KSPathExistenceChecker:0x1006250b0 path=/Applications/Android
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-05-18 08:02:35
+ticketVersion=1 
+>, 
+<KSTicket:0x100628be0 
+productID=com.google.Chrome 
+version=66.0.3359.181 
+xc=<KSPathExistenceChecker:0x100626000 path=/Applications/Google
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+tagKey=KSChannelID 
+brandPath=/Users/eugene/Library/Google/Google Chrome
+brandKey=KSBrandID 
+versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+versionKey=KSVersion 
+cohort=1:1y5: 
+cohortName=Stable 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x10036c630> 
+> 
+May 25
+May 25
+May 25
+server=<KSOmahaServer:0x100624940> 
+url="https://tools.google.com/service/update2?cup2hreq=06b174b046c53bfbdc7f8100ef659c603e2a1f2817ba08675e77617fdb47e3e3&cup2key=7:3928996319" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=06b174b046c53bfbdc7f8100ef659c603e2a1f2817ba08675e77617fdb47e3e3&cup2key=7:2695547573 
+) 
+runningFetchers=0 
+tickets=2 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.android.mtpviewer"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+<app appid="com.google.Chrome"
+<ping rd="4161"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+: <>
+May 25
+May 25
+server=<KSOmahaServer:0x100624940> 
+url="https://tools.google.com/service/update2?cup2hreq=06b174b046c53bfbdc7f8100ef659c603e2a1f2817ba08675e77617fdb47e3e3&cup2key=7:3928996319" 
+tickets=2 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4161"
+<app appid="com.google.android.mtpviewer"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+<app appid="com.google.Chrome"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x100326820 store=<KSKeyedPersistentStore:0x100342b40
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100341f40 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100631b30 
+delegate=<KSUpdateEngine:0x10036c630> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x1004215a0>
+serverInfoStore=<KSServerPrivateInfoStore:0x10036bb10 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+checks =
+tickets =
+usertickets =
+validtickets =
+validusertickets =
+}> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100535b80 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x100440a60>
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100535b80 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x100440a60>
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100535b80 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x100440a60>
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x1003572e0 
+productID=com.google.Keystone 
+version=1.2.10.105 
+xc=<KSPathExistenceChecker:0x100350930 path=/Users/eugene/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+cohort=1:0: 
+cohortName=Everyone 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x100535980> 
+> 
+May 25
+May 25
+server=<KSOmahaServer:0x100271000> 
+url="https://tools.google.com/service/update2?cup2hreq=d8c49b3611cf407ee354de67ca14d296f729a6b9b24461f194f562827cc93f46&cup2key=7:855954319" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=d8c49b3611cf407ee354de67ca14d296f729a6b9b24461f194f562827cc93f46&cup2key=7:908064807 
+) 
+runningFetchers=0 
+tickets=1 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.Keystone"
+<ping r="1"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+: <>
+May 25
+May 25
+server=<KSOmahaServer:0x100271000> 
+url="https://tools.google.com/service/update2?cup2hreq=d8c49b3611cf407ee354de67ca14d296f729a6b9b24461f194f562827cc93f46&cup2key=7:855954319" 
+tickets=1 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4162"
+<app appid="com.google.Keystone"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100446ff0 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x100440a60>
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x100446ff0 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=(null) 
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+May 25
+<KSTicket:0x1003b98f0 
+productID=com.google.android.mtpviewer 
+version=1.0.50.2266 
+xc=<KSPathExistenceChecker:0x1003b92f0 path=/Applications/Android
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-05-18 08:02:35
+ticketVersion=1 
+>, 
+<KSTicket:0x1003b9860 
+productID=com.google.Chrome 
+version=66.0.3359.181 
+xc=<KSPathExistenceChecker:0x10033bea0 path=/Applications/Google
+serverType=Omaha 
+url=https://tools.google.com/service/update2 
+creationDate=2018-04-10 10:20:14
+tagPath=/Applications/Google Chrome.app/Contents/Info.plist
+tagKey=KSChannelID 
+brandPath=/Users/eugene/Library/Google/Google Chrome
+brandKey=KSBrandID 
+versionPath=/Applications/Google Chrome.app/Contents/Info.plist
+versionKey=KSVersion 
+cohort=1:1y5: 
+cohortName=Stable 
+ticketVersion=1 
+> 
+)} 
+Using server:
+engine=<KSUpdateEngine:0x100535980> 
+> 
+May 25
+May 25
+May 25
+server=<KSOmahaServer:0x100554310> 
+url="https://tools.google.com/service/update2?cup2hreq=463a5526a8b7ff11d708b3595e010c9316fe8edce435a2cd73b8c04d36f7a02b&cup2key=7:4025881654" 
+fallbackURLs=( 
+http://tools.google.com/service/update2?cup2hreq=463a5526a8b7ff11d708b3595e010c9316fe8edce435a2cd73b8c04d36f7a02b&cup2key=7:2347991842 
+) 
+runningFetchers=0 
+tickets=2 
+body= 
+<?xml version="1.0"
+<request protocol="3.0"
+<os platform="mac"
+<app appid="com.google.android.mtpviewer"
+<ping r="1"
+<updatecheck></updatecheck> 
+</app> 
+<app appid="com.google.Chrome"
+<ping r="1"
+<updatecheck></updatecheck> 
+</app> 
+</request> 
+headers={ 
+"X-GoogleUpdate-Interactivity" =
+} 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+: <>
+May 25
+May 25
+server=<KSOmahaServer:0x100554310> 
+url="https://tools.google.com/service/update2?cup2hreq=463a5526a8b7ff11d708b3595e010c9316fe8edce435a2cd73b8c04d36f7a02b&cup2key=7:4025881654" 
+tickets=2 
+status=200 
+data= 
+<?xml version="1.0"
+<response protocol="3.0"
+<daystart elapsed_days="4162"
+<app appid="com.google.android.mtpviewer"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+<app appid="com.google.Chrome"
+<ping status="ok"></ping>
+<updatecheck status="noupdate"></updatecheck>
+</app> 
+</response> 
+> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+ticketStore=<KSPersistentTicketStore:0x10050a290 store=<KSKeyedPersistentStore:0x100343490
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" 
+lockFile=<KSLockFile:0x100342760 
+path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" 
+locked=NO 
+> 
+keyType=NSString 
+valueTypes={( 
+KSTicket 
+)} 
+>> 
+processor=<KSActionProcessor:0x1002b2320 
+delegate=<KSUpdateEngine:0x100535980> 
+isProcessing=NO actionsCompleted=0
+errors=0 currentActionErrors=0
+events=0 currentActionEvents=0
+actionQueue=( )
+> 
+delegate=<KSEngineInvocation: 0x100440a60>
+serverInfoStore=<KSServerPrivateInfoStore:0x100534e60 path="/Users/eugene/Library/Google/GoogleSoftwareUpdate/Servers">
+errors=0 
+> 
+May 25
+May 25
+checks =
+tickets =
+usertickets =
+validtickets =
+validusertickets =
+}> 
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+May 25
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1
+Jun 1

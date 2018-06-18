@@ -1,0 +1,24 @@
+.
+..
+.DS_Store
+awk_resudateA=18:00:00lt.txt
+awk_result.txt
+convert_date.sh
+cron.sh
+date
+date.txt
+date_only.txt
+file_listing_sed.txt
+files_listing.txt
+files_listing_sed.txt
+help.txt
+loop.sh
+new_syslog.txt
+new_syslog.txtcat
+nohup.out
+practical task.pdf
+syslog.txt
+thisistest.txt
+time.sh
+users_listing.txt
+while.sh
